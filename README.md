@@ -7,3 +7,5 @@ This bundle showcases a collection of SQL projects designed to highlight advance
 - **Shell Scripting Integration**: Automating database interactions and data pipeline workflows with robust shell scripts.  
 
 Explore the projects to see practical implementations of database solutions, focusing on scalability, performance, and real-world problem-solving.  
+
+I will be adding to my SQL portfolio more and more now!! very excited.
